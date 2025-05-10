@@ -1,3 +1,5 @@
+![Customer Segments Visualization](sun-country-airlines.jpg)
+
 # Sun Country Airlines: Customer Segmentation and Marketing Strategy
 
 This project leverages K-Means clustering to segment customers of Sun Country Airlines and generate targeted marketing strategies based on behavior, spending, booking channels, and loyalty program participation.
